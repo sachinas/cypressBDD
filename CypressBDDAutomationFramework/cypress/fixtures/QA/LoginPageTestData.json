@@ -1,0 +1,24 @@
+{
+  "width":1920,
+  "height":1080,
+  "staging_userID": "Test@gmail.com",
+  "staging_Password": "Test",
+  "production_userID":"TestProd@gmail.com",
+  "production_Password":"Test",
+  
+  "homePageObject":"Windowhome Pahe",
+ 
+  "userTestData":{
+    "staging_userID":[
+      {
+        "testcase5724":{
+          "windowName":"WindName",
+          "dataSourcesName":""
+        }
+      }
+    ]
+   
+        
+              
+       }
+}

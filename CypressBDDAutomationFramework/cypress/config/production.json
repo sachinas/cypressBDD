@@ -1,0 +1,15 @@
+{
+    "video": false,
+    "defaultCommandTimeout": 30000,
+    "env": {
+        "environment": "production",
+        "url": "www.Prod.com",
+        "userId": "production_userID",
+        "ConsumerId": ""
+       
+    },
+    "supportFile": false,
+    "responseTimeout": 10000,
+    "redirectionLimit": 20,
+    "numTestsKeepInMemory": 35
+}
